@@ -98,3 +98,7 @@ README.md – Project overview and usage guide
 
 The script creates a file called file_hashes.json to store hash values.
 You can delete it if you want to reset and start fresh.
+
+*OUTPUT:
+
+https://github.com/Lakshitha0306/FILE-INTEGRITY-CHECKER/issues/1#issue-3174592062
